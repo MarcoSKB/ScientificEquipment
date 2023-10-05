@@ -1,2 +1,2 @@
 # ScientificEquipment link
-https://marcoserikbay.github.io/ScientificEquipment
+https://marcoskb.github.io/ScientificEquipment
